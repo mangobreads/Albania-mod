@@ -25,10 +25,8 @@
 		"favoredReligion": "Christianity",
 		
 		"uniqueName": "League of Lezhë",
-		"uniques": ["Double quantity of [Wheat] produced",
-			    "Double quantity of [Iron] produced",
-			    "Double quantity of [Coal] produced",
-			    "Double quantity of [Horses] produced"
+		"uniques": ["[{Military} {Land}] units gain the [Drill I] promotion",
+			    "Units ignore terrain costs when moving into any tile with Hills",
 			   ],
 		"cities": [
 			"Tirana",
