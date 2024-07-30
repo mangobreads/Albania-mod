@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Albania",
+		"leaderName": "Kastrioti Skanderbeg",
+		"adjective": ["Albanian"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+		"spyNames": ["Che","Pibe"],
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You're digging a hole to fill a hole.",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": ["How yuh do?","How yuh be?","Good Marnin."],
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Consensus is something you have if you cannot have agreement.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [218,41,28],
+		"uniqueName": "League of Lezhe",
+		"uniques": ["[+2 Production] from every [Walls]",
+			   "Units ignore terrain costs when moving into any tile with Hills",
+		           "[{Military} {Land}] units gain the [Blood Feud] promotion"],
+		"cities": ["Tirana","Durrës","Gjirokastër","New Amsterdam","Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
+                            "Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
+			    "Beteverwagting","Mahaicony","Lusignan","Cane Grove","Charity"]
+	}
+]
