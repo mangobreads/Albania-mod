@@ -1,0 +1,14 @@
+{
+		"name": "Stradioti",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 25,
+		"cost": 170,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","Withdraws before melee combat","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Drill I","Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+}
