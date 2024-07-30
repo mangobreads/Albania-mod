@@ -24,15 +24,15 @@
 		
 		"favoredReligion": "Christianity",
 		
-		"uniqueName": "Fertile Lands",
+		"uniqueName": "League of Lezhë",
 		"uniques": ["Double quantity of [Wheat] produced",
 			    "Double quantity of [Iron] produced",
 			    "Double quantity of [Coal] produced",
 			    "Double quantity of [Horses] produced"
 			   ],
 		"cities": [
-			"Kyiv",
-			"Kharkiv",
+			"Tirana",
+			"Durrës",
 			"Dnipro",
 			"Odesa",
 			"Donetsk",
