@@ -1,4 +1,5 @@
-      {
+[
+	{
 		"name": "Kullë",
 	        "replaces": "Castle",
 		"uniqueTo": "Albania",
@@ -9,4 +10,5 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 		"uniques": ["Destroyed when the city is captured","[Wounded] Units adjacent to this city heal [3] HP per turn when healing"]
-      }
+      },
+]
