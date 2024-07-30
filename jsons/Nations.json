@@ -19,8 +19,8 @@
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
 		
-		"outerColor": [0,0,0],
-		"innerColor": [218,41,28],
+		"outerColor": [218,41,28],
+		"innerColor": [0,0,0],
 		
 		"favoredReligion": "Christianity",
 		
