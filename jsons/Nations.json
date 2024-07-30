@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Ukraine",
-		"leaderName": "Ivan Sirko",
-		"adjective": ["Ukrainian"],
+		"name": "Albania",
+		"leaderName": "Kastrioti Skanderbeg",
+		"adjective": ["Albanian"],
 		
-		"startBias": ["Forest"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hail to you, o great hetman Ivan Sirko. Ukraine is one of the successors of the medieval realm of Kyivan Rus. As such, Ukraine has a claim to the lands of the Rus alongside Russia. This has brought Ukraine and Russia conflict against each other on who leads Kyiv. Ukraine is led by Ivan Sirko and his Cossack hosts.",
