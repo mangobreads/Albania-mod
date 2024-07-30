@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "Stradioti",
 		"unitType": "Mounted",
 		"movement": 5,
@@ -11,4 +12,6 @@
 		"upgradesTo": "Anti-Tank Gun",
 		"obsoleteTech": "Combined Arms",
 		"attackSound": "horse"
-}
+	}
+	
+]
