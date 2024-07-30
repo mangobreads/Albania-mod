@@ -2,6 +2,8 @@
 	{
 		"name": "Stradioti",
 		"unitType": "Mounted",
+		"uniqueTo": "Albania",
+		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 25,
 		"cost": 170,
