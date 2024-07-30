@@ -25,7 +25,7 @@
 		"favoredReligion": "Christianity",
 		
 		"uniqueName": "League of Lezhë",
-		"uniques": ["[{Military} {Land}] units gain the [Drill I] promotion",
+		"uniques": ["[{Military} {Land}] units gain the [Blood Feud] promotion",
 			    "Units ignore terrain costs when moving into any tile with Hills",
 			   ],
 		"cities": [
