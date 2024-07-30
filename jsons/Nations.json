@@ -3,7 +3,7 @@
 		"name": "Albania",
 		"leaderName": "Kastrioti Skanderbeg",
 		"adjective": ["Albanian"],
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Christianity",
 		"spyNames": ["Che","Pibe"],
@@ -38,5 +38,5 @@
 		"cities": ["Tirana","Durrës","Gjirokastër","New Amsterdam","Princetown","Bartica","Tuschen","Mabaruma","Mahdia","Lethem","Fort Wellington","Triumph","Vreed en Hoop",
                             "Corriverton","Parika","Ituni","Rose Hall","Rosignol","Victoria","Plaisance","Kwakwani","Skeldon",
 			    "Beteverwagting","Mahaicony","Lusignan","Cane Grove","Charity"]
-	}
-]
+	},
+],
